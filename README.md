@@ -43,7 +43,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/pkEOzat.gif' title='Video Walkthrough of Mark's yelp app' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/LJ3D1ce.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -56,7 +56,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2016] [Mark Shen]
+    Copyright 2016 Pallavi Kurhade
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
