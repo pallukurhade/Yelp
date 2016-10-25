@@ -47,12 +47,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
-- UITableView Section Headers wasn't intuitively handled.
-- Handling optionals passed into the search API felt clumsy
 
 ## License
 
